@@ -1,9 +1,7 @@
-# -Credit_Card_Transaction_and_Customer_Analysis
+# Credit_Card_Transaction_and_Customer_Analysis
 Introduction
 We are showing all the data insights and graphs of all the transactions and customer details for 1 year.
-
 All the data can be sorted and viewed through weekly for better convenience.
-
 There are 2 different insights reports for transaction and customer analysis respectively.
 
 Problem Statement
